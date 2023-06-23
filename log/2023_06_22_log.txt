@@ -1,0 +1,4 @@
+2023-06-22 21:30:07.689222 ./src/method/parse.cpp:13 [INFO]: dict file is open, please check the path: /home/cxkgg/Documents/presstest/mcs_in_press_dict
+2023-06-22 21:30:49.797767 ./src/method/request_v2.cpp:92 [INFO]: No.0 request code is 0
+2023-06-22 21:30:49.797879 ./src/method/request_v2.cpp:92 [INFO]: No.1 request code is 0
+2023-06-22 21:30:49.802032 ./src/method/request_v2.cpp:92 [INFO]: No.2 request code is 0
