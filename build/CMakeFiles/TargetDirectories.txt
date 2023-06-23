@@ -1,6 +1,0 @@
-/home/cxkgg/Documents/presstest/build/CMakeFiles/rebuild_cache.dir
-/home/cxkgg/Documents/presstest/build/CMakeFiles/edit_cache.dir
-/home/cxkgg/Documents/presstest/build/CMakeFiles/exepress.out.dir
-/home/cxkgg/Documents/presstest/build/gflags/CMakeFiles/rebuild_cache.dir
-/home/cxkgg/Documents/presstest/build/gflags/CMakeFiles/edit_cache.dir
-/home/cxkgg/Documents/presstest/build/gflags/CMakeFiles/gflags_nothreads_static.dir
